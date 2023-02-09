@@ -1,0 +1,8 @@
+name: neo4j_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.10
+  - networkx
+prefix: C:\users\p.peng\anaconda3\envs\neo4j_env
